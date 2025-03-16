@@ -1,0 +1,4 @@
+{
+	"name": "UIFeature",
+	"references":[ "BuildingFeature", "GridFeature", "Input" ]
+}

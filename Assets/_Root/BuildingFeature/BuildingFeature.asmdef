@@ -1,0 +1,4 @@
+﻿{
+  "name": "BuildingFeature",
+  "references":[ "GUID:de2700c295a14b0e9f5d8819933cf1a5", "GUID:fda9fce82cb14ab78c8f78d6d9aca9e0" ]
+}

@@ -1,0 +1,4 @@
+﻿{
+  "name": "Core",
+  "references":[ "BuildingFeature", "UIFeature", "GridFeature", "Input", "SaveFeature" ]
+}
